@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3529212410_120880739_223132457.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_803020346_1848027803.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_2014949561_2510834064.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_3201849554_1192215194.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_212021735_285826642.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_1459718699_3865725173.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_2030095147_3709753636.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_670100119_2543586241.mp4'
+file 'file:D:/project/Python/ADA/media/videos/FFT_Speed_Measurement/1080p60/partial_movie_files/CPUAnalysis/3040924799_1734327179_1155658263.mp4'

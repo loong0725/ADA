@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3529212410_232499438_839434163.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_689927270_2723630481.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_3545681757_726129296.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_1858635552_2239208457.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_1690712101_798824913.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_1973455425_3610163334.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_542973217_2400146201.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_3320361963_3420193909.mp4'
+file 'file:D:/project/Python/ADA/media/videos/Normalization/1080p60/partial_movie_files/Normalization/3040924799_1839128356_1160282742.mp4'
